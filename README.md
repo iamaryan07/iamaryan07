@@ -78,18 +78,6 @@ I build AI-powered systems, backend infrastructures, and autonomous agent workfl
 
 ---
 
-# GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark&hide_border=true)
-
-</div>
-
----
-
 # Connect
 
 <div align="center">
