@@ -1,12 +1,14 @@
-<div align="center">
+<h1 align="center">Aryan</h1>
 
-# Aryan
+<p align="center">
+  <a href="https://github.com/iamaryan07">
+    <img src="https://komarev.com/ghpvc/?username=iamaryan07&label=Profile%20Views&color=38BDF8&style=flat" />
+  </a>
+</p>
 
-### AI Systems Engineer • Backend Developer • Agentic AI Builder
-
-> "Building autonomous systems, memory architectures, and AI-driven developer tools."
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer+%7C+Backend+Developer+%7C+Agentic+AI+Builder" />
+</p>
 
 ---
 
@@ -25,47 +27,55 @@ I build AI-powered systems, backend infrastructures, and autonomous agent workfl
 
 ## AI / Machine Learning
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121D33?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C1C1C?style=for-the-badge)
-![FastMCP](https://img.shields.io/badge/FastMCP-4B0082?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-0A192F?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-4B0082?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=langchain" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangGraph-1C1C1C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FastMCP-4B0082?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-0A192F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Agents-4B0082?style=for-the-badge" />
+</p>
 
 ---
 
 ## Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-A30000?style=for-the-badge)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi" />
+</p>
 
 ---
 
 ## Frontend / Full-Stack
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![MERN Stack](https://img.shields.io/badge/MERN%20Stack-3C873A?style=for-the-badge)
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,mongodb" />
+</p>
 
 ---
 
 ## Databases
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
 ---
 
 ## Tools
 
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
+<p>
+  <img src="https://skillicons.dev/icons?i=selenium" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge" />
+</p>
 
 ---
 
@@ -82,6 +92,12 @@ I build AI-powered systems, backend infrastructures, and autonomous agent workfl
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryanbalhara07/)
+<a href="https://linkedin.com/in/aryanbalhara07/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:aryanbalhara3700@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
 
 </div>
